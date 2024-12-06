@@ -2,3 +2,4 @@ C:/Users/supawit-project/AppData/Local/Programs/Python/Python313/python.exe -m p
 
 spacy
 spacy download en_core_web_sm
+rasa
