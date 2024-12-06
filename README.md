@@ -1,6 +1,7 @@
 # Natural Language Processing (NLP) Course
 
 This repository contains materials and code examples for a course on Natural Language Processing (NLP). The course covers various fundamental concepts in NLP and hands-on projects, providing a deep dive into text processing, topic identification, sentiment analysis, and chatbot development.
+# These documents (lectures) were prepared by Associate Professor Dr. Supaporn Simcharoen.
 
 ## Topics Covered
 
