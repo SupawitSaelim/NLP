@@ -22,25 +22,19 @@ This repository contains materials and code examples for a course on Natural Lan
 6. **Named-Entity Recognition (NER) (1)**  
    Introduction to NER, which involves identifying named entities (e.g., names, dates, locations) in text.
 
-7. **Project Presentation**  
-   A practical project to apply the skills learned throughout the course.
-
-8. **Midterm Exam**  
-   A test to assess the understanding and application of the topics covered in the first half of the course.
-
-9. **Named-Entity Recognition (NER) (2)**  
+7. **Named-Entity Recognition (NER) (2)**  
    A more advanced exploration of NER, including techniques for improving entity recognition accuracy.
 
-10. **Introduction to Sentiment Analysis (1)**  
+8. **Introduction to Sentiment Analysis (1)**  
     An introduction to sentiment analysis, focusing on how to classify the sentiment of text.
 
-11. **Introduction to Sentiment Analysis (2)**  
+9. **Introduction to Sentiment Analysis (2)**  
     Continuation of sentiment analysis techniques, with hands-on practice and examples.
 
-12. **Building Chatbots (1)**  
+10. **Building Chatbots (1)**  
     Introduction to building conversational agents or chatbots using NLP techniques.
 
-13. **Building Chatbots (2)**  
+11. **Building Chatbots (2)**  
     Further development of chatbot-building skills, including integration with external APIs and advanced features.
 
 ## Usage
