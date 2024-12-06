@@ -1,4 +1,4 @@
-import nltk
-nltk.download('punkt_tab')
-nltk.download('punkt') 
-nltk.download('stopwords')
+C:/Users/supawit-project/AppData/Local/Programs/Python/Python313/python.exe -m pip install gensim
+
+spacy
+spacy download en_core_web_sm
